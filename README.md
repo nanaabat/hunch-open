@@ -29,7 +29,7 @@ wink uses this same interface (see the wink repo). tingle embeds the blender pan
 
 ## status
 
-early. the interface, mock and snapshot code are usable. a trained engine is not part of this repo.
+experimental and early. expect rough edges and changes, and check every result yourself. no trained weights ship with this repo, so the mock is what runs out of the box. the interface, mock and snapshot code are usable. a trained engine is not part of this repo.
 
 ## family
 
